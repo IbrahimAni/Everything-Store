@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5eb28f5d-2ad1-453e-b367-093a270bdc25" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Everything_Store_-_Assessment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/admins/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/admins/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cookies/Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/customers/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/customers/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/customers/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orderItems/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orderItems/OrderItemDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Landing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admins/AddAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admins/DisplayAllAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admins/ProcessAddAdminHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admins/ProcessDeleteAdminHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admins/ProcessSearchAdminHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admins/ProcessUpdateAdminHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admins/SearchAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admins/UpdateAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/customers/AddCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/customers/DisplayAllCustomers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/customers/ProcessAddCustomerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/customers/ProcessDeleteCustomerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/customers/ProcessSearchCustomerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/customers/ProcessUpdateCustomerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/customers/SearchCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/customers/UpdateCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/ProcessLoginHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/AddProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/DisplayAllProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/ItemRemovedFromCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/ProcessAddProductHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/ProcessDeleteProductHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/ProcessSearchProductByCategoryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/ProcessSearchProductHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/ProcessUpdateProductHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/SearchProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/SearchProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/UpdateProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/products/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/HashPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Util.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KRpZCGkZ6XZ6KeyWpY6LTfO7IL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/JDBC Driver/sqlite-jdbc-3.39.2.1.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\Everything_Store_-_Assessment\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\Everything_Store_-_Assessment" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Everything_Store_-_Assessment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eb28f5d-2ad1-453e-b367-093a270bdc25" name="Changes" comment="" />
+      <created>1673947307021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673947307021</updated>
+      <workItem from="1673947310160" duration="100084000" />
+      <workItem from="1674171289017" duration="23140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
